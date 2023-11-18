@@ -19,7 +19,7 @@ body {
   padding: 0;  /* remove default padding */
   box-sizing: border-box;  /* include padding and border in element's total width and height */
   font-size: 18px;  /* larger text size */
-  font-family: 'Ooh! Bold';  /* your custom font family */
+  font-family: 'Roboto';  /* your custom font family */
 }
 
 #accueil {
