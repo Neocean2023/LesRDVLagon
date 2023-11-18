@@ -25,7 +25,7 @@ body {
   display: flex; /* Make the block a Flexbox container */
   flex-direction: column; /* Stack the items vertically */
   justify-content: center; /* Center the items vertically */
-  background-color: rgba(34, 17, 102, 0.8);  /* semi-transparent dark color for background */
+  background-color: rgba(0, 116, 139, 0.8);  /* semi-transparent dark color for background */
   padding: 20px;
   border-radius: 15px;  /* rounded corners */
   text-align: center;  /* center the text */
@@ -44,7 +44,7 @@ body {
 #ecranCartographie,
 #ecranEnregistrerContact {
   display: none;
-  background-color: rgba(38, 29, 117, 0.8);  /* semi-transparent dark color for background */
+  background-color: rgba(0, 116, 139, 0.8);  /* semi-transparent dark color for background */
   padding: 20px;
   border-radius: 15px;  /* rounded corners */
   width: 80%;  /* make the blocks larger */
@@ -74,7 +74,7 @@ button {
 }
 
 button:hover {
-  background-color: #2b2a84;  /* different color for button on hover */
+  background-color: #00748B;  /* different color for button on hover */
 }
 
 input[type="text"] {
