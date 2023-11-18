@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-image: url('test 3 background.png');
+  background-image: url('test background.png');
   background-position: center center;
   background-size: cover;
   color: #ffffff;  /* white color for text */
