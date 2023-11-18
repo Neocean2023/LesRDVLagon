@@ -28,5 +28,10 @@ document.getElementById("enregistrer").onclick = function() {
     mail: document.getElementById("mail").value
   }
 
+document.getElementById('siteneOcean').addEventListener('click', function() {
+    document.getElementById('accueil').style.display = 'none';
+    document.getElementById('carrouselNeOcean').style.display = 'block';
+}
+  
   console.log(contact);
 }
