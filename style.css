@@ -53,7 +53,7 @@ body {
 }
 
 .bloc {
-  border: 1px solid #2b2a84;  /* medium color for borders */
+  border: 1px solid #00748B;  /* medium color for borders */
   padding: 20px;
   margin: 20px;  /* larger margin */
   border-radius: 15px;  /* rounded corners for a more fluid look */
@@ -62,8 +62,8 @@ body {
 }
 
 button {
-  background-color: #DD4422;  /* contrasting color for buttons */
-  color: #ffffff;  /* white color for button text */
+  background-color: #E4E4E4;  /* contrasting color for buttons */
+  color: #1FB7B8;  /* white color for button text */
   border: none;
   padding: 10px;
   border-radius: 5px;  /* rounded corners for buttons */
