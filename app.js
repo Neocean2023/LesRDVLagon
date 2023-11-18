@@ -1,16 +1,16 @@
-document.getElementById("carteDeVisite").onclick = function() {
+document.getElementById("LesRDVduLagon").onclick = function() {
   document.getElementById("accueil").style.display = "none";
-  document.getElementById("ecranCarteDeVisite").style.display = "block";
+  document.getElementById("ecranCartographie").style.display = "block";
 }
 
-document.getElementById("enregistrerContact").onclick = function() {
+document.getElementById("enregistrerévènement").onclick = function() {
   document.getElementById("accueil").style.display = "none";
   document.getElementById("ecranEnregistrerContact").style.display = "block";
 }
 
 document.getElementById("retourAccueil1").onclick = function() {
   document.getElementById("accueil").style.display = "flex";
-  document.getElementById("ecranCarteDeVisite").style.display = "none";
+  document.getElementById("ecranCartographie").style.display = "none";
 }
 
 document.getElementById("retourAccueil2").onclick = function() {
