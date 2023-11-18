@@ -41,7 +41,7 @@ body {
 
 
 
-#ecranCarteDeVisite,
+#ecranCartographie,
 #ecranEnregistrerContact {
   display: none;
   background-color: rgba(38, 29, 117, 0.8);  /* semi-transparent dark color for background */
