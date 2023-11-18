@@ -31,16 +31,3 @@ document.getElementById("enregistrer").onclick = function() {
   console.log(contact);
 }
 
-// Fonction pour afficher la page Actualités
-document.getElementById('siteneOcean').addEventListener('click', function() {
-    document.getElementById('accueil').style.display = 'none';
-    document.getElementById('ecranActualites').style.display = 'block';
-});
-
-// Gestion du bouton Retour dans la page Actualités
-document.getElementById('retourAccueil3').addEventListener('click', function() {
-    document.getElementById('ecranActualites').style.display = 'none';
-    document.getElementById('accueil').style.display = 'block';
-}
-
-
